@@ -1,0 +1,33 @@
+OC open color 
+tailwindcss
+flat ui color 2
+Main => Grey Accent 
+Lighter , tints 
+Darker , Shades ( back ground )
+
+coolors => contrast عشان تتاكد ان الناس هتشوف 
+
+
+
+Images 
+Unsplash 
+pexels 
+DrawKit
+unDraw 
+
+Squoosh
+
+ممكن تلعب في darking , brighten بتاعت الصورة عشان تظهر الكلام اكتر 
+
+
+
+Icons 
+Phosphor icons 
+ionicons
+ICONS
+Hero icons => 
+Use SVG icons or icon fonts Dont use image formats (.jpg , .png )
+
+
+
+MDN WEB Docs
